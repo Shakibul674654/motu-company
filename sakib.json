@@ -1,62 +1,117 @@
 [
   {
     "id": 1,
-    "name": "Sakib Al Hasan",
-    "email": "sakib.75@cricket.bd",
-    "phone": "‪+880 1711-223344‬",
+    "name": "Shakibul Hasan",
+    "username": "Shakib",
+    "email": "shakib.hasan@dhakanet.bd",
+    "phone": "+880 1711-234567",
+    "website": "shakibtech.com.bd",
+    "address": {
+      "street": "care of khejurbagan Road",
+      "suite": "House 45, Flat 4A",
+      "city": "Dhaka",
+      "zipcode": "1216",
+      "geo": {
+        "lat": "23.8103",
+        "lng": "90.4125"
+      }
+    },
     "company": {
-      "name": "Grameenphone",
-      "bs": "Brand Ambassador"
+      "name": "Bengal Solutions Ltd.",
+      "catchPhrase": "Empowering digital Bangladesh",
+      "bs": "innovate enterprise platforms"
     }
   },
   {
     "id": 2,
-    "name": "Hasan",
-    "email": "hasan.dev@pathao.com",
-    "phone": "‪+880 1912-345678‬",
+    "name": "Shakib Al Hassan",
+    "username": "hasan",
+    "email": "shakib.al@ctg-online.net",
+    "phone": "+880 1819-876543",
+    "website": "Shakib-fashions.com",
+    "address": {
+      "street": "CDA Avenue",
+      "suite": "Plot 12, Block B",
+      "city": "Chittagong",
+      "zipcode": "4000",
+      "geo": {
+        "lat": "22.3569",
+        "lng": "91.7832"
+      }
+    },
     "company": {
-      "name": "Pathao",
-      "bs": "Ride Sharing Tech"
+      "name": "Port City Logistics",
+      "catchPhrase": "Seamless shipping across borders",
+      "bs": "optimize supply-chain networks"
     }
   },
   {
     "id": 3,
-    "name": "Shakibul Hasan",
-    "email": "hasan.u@bkash.com",
-    "phone": "‪+880 1819-001122‬",
+    "name": "Sabur Khan",
+    "username": "Khan",
+    "email": "Khan.h@teavalley.com",
+    "phone": "+880 1712-345678",
+    "website": "daffodil.org",
+    "address": {
+      "street": "khagan Road",
+      "suite": "Suite 302, Al-Hamra Center",
+      "city": "Dhaka",
+      "zipcode": "1100",
+      "geo": {
+        "lat": "24.8949",
+        "lng": "91.8687"
+      }
+    },
     "company": {
-      "name": "bKash Ltd",
-      "bs": "Mobile Financial Services"
+      "name": "Daffodil international university",
+      "catchPhrase": "Freshness from the hills",
+      "bs": "University"
     }
   },
   {
     "id": 4,
-    "name": "Dr. Sabur Khan",
-    "email": "dr.sabur@square.edu.bd",
-    "phone": "‪+880 1555-998877‬",
+    "name": "Tahmina Begum",
+    "username": "Tahmina_Silk",
+    "email": "tahmina@rajshahi-silk.com",
+    "phone": "+880 1911-223344",
+    "website": "silkcity.com.bd",
+    "address": {
+      "street": "Shaheb Bazar",
+      "suite": "House 10, Road 2",
+      "city": "Rajshahi",
+      "zipcode": "6000",
+      "geo": {
+        "lat": "24.3636",
+        "lng": "88.6241"
+      }
+    },
     "company": {
-      "name": "Square Hospital",
-      "bs": "Healthcare"
+      "name": "Silk City Fabrics",
+      "catchPhrase": "Tradition meets elegance",
+      "bs": "harness traditional craftsmanship"
     }
   },
   {
     "id": 5,
-    "name": "Aminul Islam",
-    "email": "rafiq@daraz.com.bd",
-    "phone": "‪+880 1677-445566‬",
+    "name": "Sajjad Hossain",
+    "username": "Sajjad_Khulna",
+    "email": "sajjad.hossain@mangrove.net",
+    "phone": "+880 1678-998877",
+    "website": "sundarbantours.com",
+    "address": {
+      "street": "Khan Jahan Ali Road",
+      "suite": "Flat 5B, Royal Tower",
+      "city": "Khulna",
+      "zipcode": "9100",
+      "geo": {
+        "lat": "22.8456",
+        "lng": "89.5403"
+      }
+    },
     "company": {
-      "name": "Daraz Bangladesh",
-      "bs": "E-Commerce"
-    }
-  },
-  {
-    "id": 6,
-    "name": "Tasnim Jarinand",
-    "email": "tasnim@brac.net",
-    "phone": "‪+880 1300-112233‬",
-    "company": {
-      "name": "BRAC NGO",
-      "bs": "Social Development"
+      "name": "Sundarban Eco Tours",
+      "catchPhrase": "Explore the wild nature",
+      "bs": "facilitate eco-friendly tourism"
     }
   }
 ]
